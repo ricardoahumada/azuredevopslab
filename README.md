@@ -1,4 +1,4 @@
-# azuredevopslab
+# Azure DevOps Lab
 
 ## Workshop
 
