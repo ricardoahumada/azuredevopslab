@@ -1,0 +1,17 @@
+git checkout -b feature/update-readme
+#edit
+git add .
+git commit -m "<comment>"
+git push --set-upstream origin feature/update-readme
+git push origin
+
+#Go github and the branche
+New pull request
+Add reviewers
+send review reqs
+
+Add comments
+Aprove
+
+Merge pull request -> confirm
+Delete branche
